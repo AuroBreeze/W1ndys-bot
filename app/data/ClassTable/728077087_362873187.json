@@ -1440,38 +1440,6 @@
                 }
             ]
         },
-        "6": {
-            "5": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
-            "7": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "16:00",
-                    "endTime": "16:50"
-                }
-            ]
-        },
         "5": {
             "3": [
                 {
@@ -1521,6 +1489,38 @@
                     "teacher": "刘柏玲",
                     "startTime": "21:00",
                     "endTime": "21:50"
+                }
+            ]
+        },
+        "6": {
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
                 }
             ]
         }
@@ -1855,36 +1855,6 @@
             ]
         },
         "6": {
-            "5": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
-            "7": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "16:00",
-                    "endTime": "16:50"
-                }
-            ],
             "9": [
                 {
                     "courseId": 13,
@@ -1913,6 +1883,36 @@
                     "teacher": "孙鹏",
                     "startTime": "21:00",
                     "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
                 }
             ]
         },
@@ -2299,36 +2299,6 @@
             ]
         },
         "6": {
-            "5": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
-            "7": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "16:00",
-                    "endTime": "16:50"
-                }
-            ],
             "9": [
                 {
                     "courseId": 13,
@@ -2357,6 +2327,36 @@
                     "teacher": "孙鹏",
                     "startTime": "21:00",
                     "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
                 }
             ]
         },
@@ -2743,36 +2743,6 @@
             ]
         },
         "6": {
-            "5": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
-            "7": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "16:00",
-                    "endTime": "16:50"
-                }
-            ],
             "9": [
                 {
                     "courseId": 13,
@@ -2801,6 +2771,36 @@
                     "teacher": "孙鹏",
                     "startTime": "21:00",
                     "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
                 }
             ]
         },
@@ -3259,36 +3259,6 @@
             ]
         },
         "6": {
-            "5": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
-            "7": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "16:00",
-                    "endTime": "16:50"
-                }
-            ],
             "9": [
                 {
                     "courseId": 13,
@@ -3317,6 +3287,36 @@
                     "teacher": "孙鹏",
                     "startTime": "21:00",
                     "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
                 }
             ]
         },
@@ -3745,36 +3745,6 @@
             ]
         },
         "6": {
-            "5": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
-            "7": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "16:00",
-                    "endTime": "16:50"
-                }
-            ],
             "9": [
                 {
                     "courseId": 13,
@@ -3803,6 +3773,36 @@
                     "teacher": "孙鹏",
                     "startTime": "21:00",
                     "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
                 }
             ]
         },
@@ -4211,36 +4211,6 @@
             ]
         },
         "6": {
-            "5": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
-            "7": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "16:00",
-                    "endTime": "16:50"
-                }
-            ],
             "9": [
                 {
                     "courseId": 13,
@@ -4269,6 +4239,36 @@
                     "teacher": "孙鹏",
                     "startTime": "21:00",
                     "endTime": "21:50"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
                 }
             ]
         },
@@ -4666,38 +4666,6 @@
                 }
             ]
         },
-        "6": {
-            "5": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
-            "7": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "16:00",
-                    "endTime": "16:50"
-                }
-            ]
-        },
         "7": {
             "9": [
                 {
@@ -4809,6 +4777,38 @@
                     "teacher": "刘柏玲",
                     "startTime": "21:00",
                     "endTime": "21:50"
+                }
+            ]
+        },
+        "6": {
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
                 }
             ]
         }
@@ -5112,38 +5112,6 @@
                 }
             ]
         },
-        "6": {
-            "5": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
-            "7": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "16:00",
-                    "endTime": "16:50"
-                }
-            ]
-        },
         "7": {
             "9": [
                 {
@@ -5215,6 +5183,38 @@
                     "teacher": "刘柏玲",
                     "startTime": "21:00",
                     "endTime": "21:50"
+                }
+            ]
+        },
+        "6": {
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
                 }
             ]
         }
@@ -5446,38 +5446,6 @@
                 }
             ]
         },
-        "6": {
-            "5": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
-            "7": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "16:00",
-                    "endTime": "16:50"
-                }
-            ]
-        },
         "7": {
             "9": [
                 {
@@ -5549,6 +5517,38 @@
                     "teacher": "刘柏玲",
                     "startTime": "21:00",
                     "endTime": "21:50"
+                }
+            ]
+        },
+        "6": {
+            "5": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
+                }
+            ],
+            "6": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "15:00",
+                    "endTime": "15:50"
+                }
+            ],
+            "7": [
+                {
+                    "courseId": 9,
+                    "courseName": "无脊椎动物学实验",
+                    "room": "实验中心D区D121、D123",
+                    "teacher": "谢广龙",
+                    "startTime": "16:00",
+                    "endTime": "16:50"
                 }
             ]
         }
@@ -5750,38 +5750,6 @@
                 }
             ]
         },
-        "6": {
-            "5": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
-                }
-            ],
-            "6": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
-                }
-            ],
-            "7": [
-                {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "16:00",
-                    "endTime": "16:50"
-                }
-            ]
-        },
         "7": {
             "9": [
                 {
@@ -5823,6 +5791,28 @@
                     "teacher": "刘影",
                     "startTime": "11:10",
                     "endTime": "12:00"
+                }
+            ]
+        },
+        "6": {
+            "4": [
+                {
+                    "courseId": 22,
+                    "courseName": "包饺子",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "11:10",
+                    "endTime": "12:00"
+                }
+            ],
+            "5": [
+                {
+                    "courseId": 22,
+                    "courseName": "包饺子",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "14:00",
+                    "endTime": "14:50"
                 }
             ]
         }
@@ -5972,37 +5962,55 @@
                     "startTime": "17:00",
                     "endTime": "17:50"
                 }
-            ]
-        },
-        "6": {
-            "5": [
+            ],
+            "9": [
                 {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "14:00",
-                    "endTime": "14:50"
+                    "courseId": 23,
+                    "courseName": "化学",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "19:00",
+                    "endTime": "19:50"
                 }
             ],
-            "6": [
+            "10": [
                 {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "15:00",
-                    "endTime": "15:50"
+                    "courseId": 23,
+                    "courseName": "化学",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "20:00",
+                    "endTime": "20:50"
                 }
             ],
-            "7": [
+            "11": [
                 {
-                    "courseId": 9,
-                    "courseName": "无脊椎动物学实验",
-                    "room": "实验中心D区D121、D123",
-                    "teacher": "谢广龙",
-                    "startTime": "16:00",
-                    "endTime": "16:50"
+                    "courseId": 23,
+                    "courseName": "化学",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "21:00",
+                    "endTime": "21:50"
+                }
+            ],
+            "12": [
+                {
+                    "courseId": 23,
+                    "courseName": "化学",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "21:25",
+                    "endTime": "21:30"
+                }
+            ],
+            "13": [
+                {
+                    "courseId": 23,
+                    "courseName": "化学",
+                    "room": "",
+                    "teacher": "",
+                    "startTime": "21:35",
+                    "endTime": "21:40"
                 }
             ]
         },
