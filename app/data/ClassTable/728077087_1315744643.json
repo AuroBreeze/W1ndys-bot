@@ -1,394 +1,4 @@
 {
-    "1": {
-        "2": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "3": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "4": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        }
-    },
-    "2": {
-        "2": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "3": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "4": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        }
-    },
-    "3": {
-        "2": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "3": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "4": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        }
-    },
     "4": {
         "1": {
             "1": [
@@ -512,36 +122,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -603,36 +183,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "16:20",
                     "endTime": "17:05"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         },
@@ -696,36 +246,6 @@
                     "startTime": "14:30",
                     "endTime": "15:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "5": {
@@ -767,38 +287,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "14:30",
                     "endTime": "15:15"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }
@@ -906,36 +394,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -998,36 +456,6 @@
                     "startTime": "16:20",
                     "endTime": "17:05"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "4": {
@@ -1070,36 +498,6 @@
                     "startTime": "10:30",
                     "endTime": "11:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "5": {
@@ -1141,38 +539,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "14:30",
                     "endTime": "15:15"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }
@@ -1300,36 +666,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -1391,36 +727,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "16:20",
                     "endTime": "17:05"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         },
@@ -1484,36 +790,6 @@
                     "startTime": "14:30",
                     "endTime": "15:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "5": {
@@ -1555,38 +831,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "14:30",
                     "endTime": "15:15"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }
@@ -1694,36 +938,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -1785,36 +999,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "16:20",
                     "endTime": "17:05"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         },
@@ -1878,36 +1062,6 @@
                     "startTime": "16:20",
                     "endTime": "17:05"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "5": {
@@ -1949,38 +1103,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "14:30",
                     "endTime": "15:15"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }
@@ -2108,36 +1230,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -2199,36 +1291,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "16:20",
                     "endTime": "17:05"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         },
@@ -2312,36 +1374,6 @@
                     "startTime": "16:20",
                     "endTime": "17:05"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "5": {
@@ -2383,38 +1415,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "14:30",
                     "endTime": "15:15"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }
@@ -2562,36 +1562,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -2653,36 +1623,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "16:20",
                     "endTime": "17:05"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         },
@@ -2746,36 +1686,6 @@
                     "startTime": "16:20",
                     "endTime": "17:05"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "5": {
@@ -2817,38 +1727,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "14:30",
                     "endTime": "15:15"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }
@@ -3016,36 +1894,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -3107,36 +1955,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "16:20",
                     "endTime": "17:05"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         },
@@ -3220,36 +2038,6 @@
                     "startTime": "16:20",
                     "endTime": "17:05"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "5": {
@@ -3291,38 +2079,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "14:30",
                     "endTime": "15:15"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }
@@ -3470,36 +2226,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -3562,36 +2288,6 @@
                     "startTime": "16:20",
                     "endTime": "17:05"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "4": {
@@ -3634,36 +2330,6 @@
                     "startTime": "10:30",
                     "endTime": "11:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "5": {
@@ -3705,38 +2371,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "14:30",
                     "endTime": "15:15"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }
@@ -3904,36 +2538,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -3995,36 +2599,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "16:20",
                     "endTime": "17:05"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         },
@@ -4088,36 +2662,6 @@
                     "startTime": "14:30",
                     "endTime": "15:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "5": {
@@ -4159,38 +2703,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "14:30",
                     "endTime": "15:15"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }
@@ -4298,36 +2810,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -4390,36 +2872,6 @@
                     "startTime": "16:20",
                     "endTime": "17:05"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "4": {
@@ -4462,36 +2914,6 @@
                     "startTime": "10:30",
                     "endTime": "11:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "5": {
@@ -4533,38 +2955,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "14:30",
                     "endTime": "15:15"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }
@@ -4692,36 +3082,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -4783,36 +3143,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "16:20",
                     "endTime": "17:05"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         },
@@ -4876,36 +3206,6 @@
                     "startTime": "14:30",
                     "endTime": "15:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "5": {
@@ -4947,38 +3247,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "14:30",
                     "endTime": "15:15"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }
@@ -5086,36 +3354,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -5178,36 +3416,6 @@
                     "startTime": "16:20",
                     "endTime": "17:05"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "4": {
@@ -5250,36 +3458,6 @@
                     "startTime": "10:30",
                     "endTime": "11:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "5": {
@@ -5321,38 +3499,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "14:30",
                     "endTime": "15:15"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }
@@ -5480,36 +3626,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -5551,36 +3667,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "16:20",
                     "endTime": "17:05"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         },
@@ -5665,68 +3751,6 @@
                     "teacher": "赵冬慧,栾天",
                     "startTime": "14:30",
                     "endTime": "15:15"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }
@@ -5834,36 +3858,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -5905,36 +3899,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "16:20",
                     "endTime": "17:05"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         },
@@ -5999,68 +3963,6 @@
                     "teacher": "王军",
                     "startTime": "10:30",
                     "endTime": "11:15"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }
@@ -6158,36 +4060,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -6229,36 +4101,6 @@
                     "teacher": "魏瑞菊",
                     "startTime": "16:20",
                     "endTime": "17:05"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         },
@@ -6343,68 +4185,6 @@
                     "teacher": "赵冬慧,栾天",
                     "startTime": "14:30",
                     "endTime": "15:15"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }
@@ -6460,36 +4240,6 @@
                     "startTime": "15:30",
                     "endTime": "16:15"
                 }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
             ]
         },
         "3": {
@@ -6511,36 +4261,6 @@
                     "teacher": "马晓娜",
                     "startTime": "08:40",
                     "endTime": "09:25"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         },
@@ -6585,198 +4305,6 @@
                     "teacher": "王军",
                     "startTime": "10:30",
                     "endTime": "11:15"
-                }
-            ],
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        }
-    },
-    "20": {
-        "2": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "3": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "4": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
-                }
-            ]
-        },
-        "7": {
-            "10": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "18:40",
-                    "endTime": "19:25"
-                }
-            ],
-            "11": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "19:30",
-                    "endTime": "20:15"
-                }
-            ],
-            "12": [
-                {
-                    "courseId": 11,
-                    "courseName": "晚自习",
-                    "room": "信息馆518",
-                    "teacher": "",
-                    "startTime": "20:20",
-                    "endTime": "21:05"
                 }
             ]
         }

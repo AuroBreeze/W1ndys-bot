@@ -28,7 +28,6 @@ from app.scripts.Crypto.main import (
 # 工具
 from app.scripts.Tools.main import (
     handle_group_message as handle_tools_group_message,
-    handle_private_message as handle_tools_private_message,
 )
 
 # ai对话
@@ -38,10 +37,10 @@ from app.scripts.AI.main import handle_ai_group_message
 from app.scripts.QASystem.main import handle_qasystem_message_group
 
 # 天气订阅
-from app.scripts.WeatherSubscribe.main import (
-    handle_WeatherSubscribe_task_Timer,
-    handle_WeatherSubscribe_task_Msg,
-)
+# from app.scripts.WeatherSubscribe.main import (
+#     handle_WeatherSubscribe_task_Timer,
+#     handle_WeatherSubscribe_task_Msg,
+# )
 
 # 课程表
 from app.scripts.ClassTable.main import (
@@ -74,6 +73,9 @@ from app.scripts.InviteChain.main import (
 # 违禁词
 from app.scripts.BanWords.main import handle_BanWords_group_message
 
+# 违禁词2
+from app.scripts.BanWords2.main import handle_BanWords2_group_message
+
 # QFNU追踪器
 from app.scripts.QFNUTracker.main import (
     start_qfnu_tracker,
@@ -101,6 +103,15 @@ from app.scripts.WordCloud.main import (
     handle_WordCloud_group_message,
     wordcloud_task,
 )
+
+# 时间感知问候
+from app.scripts.TimeAwareGreetings.main import handle_TimeAwareGreetings_group_message
+
+# 夸夸AI
+from app.scripts.KuaKuaAI.main import handle_KuaKuaAI_group_message
+
+# 戳一戳
+from app.scripts.PokePal.main import handle_PokePal_group_message
 
 # 打断复读
 from app.scripts.NoAddOne.main import handle_NoAddOne_group_message
@@ -141,6 +152,7 @@ async def handle_message_event(websocket, msg):
             await handle_blacklist_message_group(websocket, msg)  # 处理黑名单系统
             await handle_GroupSwitch_group_message(websocket, msg)  # 处理群组开关
             await handle_BanWords_group_message(websocket, msg)  # 处理违禁词系统
+            await handle_BanWords2_group_message(websocket, msg)  # 处理违禁词系统(2)
             await WelcomeFarewell_manage(websocket, msg)  # 处理入群欢迎和退群欢送的管理
             await handle_Menu_group_message(websocket, msg)  # 处理菜单
             await handle_InviteChain_group_message(websocket, msg)  # 处理邀请链
@@ -155,7 +167,11 @@ async def handle_message_event(websocket, msg):
             # await handle_WeatherSubscribe_task_Msg(websocket, msg)  # 处理天气订阅
             await handle_ClassTable_group_message(websocket, msg)  # 处理课程表
             await handle_WordCloud_group_message(websocket, msg)  # 处理词云
-
+            await handle_KuaKuaAI_group_message(websocket, msg)  # 处理夸夸AI
+            await handle_PokePal_group_message(websocket, msg)  # 处理戳一戳
+            await handle_TimeAwareGreetings_group_message(
+                websocket, msg
+            )  # 处理时间感知问候
         # 处理私聊消息
         elif msg.get("message_type") == "private":
             # 由于私聊风险较大，不处理私聊消息，仅记录
